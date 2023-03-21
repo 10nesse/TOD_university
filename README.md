@@ -19,7 +19,8 @@
 - [Лабораторная работа №1: Изучение библиотеки NumPy](https://github.com/10nesse/university/tree/main/Лабораторная%20работа%20№1)
 - [Лабораторная работа №2: Изучение библиотеки Pandas](https://github.com/10nesse/university/tree/main/Лабораторная%20работа%20№2)
 - [Лабораторная работа №3: Работа с файлами JSON и XML](https://github.com/10nesse/university/tree/main/Лабораторная%20работа%20№3)
-
+- [Лабораторная работа №4: Изучение бибилотеки Xlwings](https://github.com/10nesse/TOD_university/tree/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%964)
+- [Лабораторная работа №5: Изучение библиотеки Matplotlib](https://github.com/10nesse/TOD_university/tree/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%965)
 
 
 
